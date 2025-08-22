@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">About Me<br><br>Hi, I’m Menna Sabry, a passionate Computer Science student and aspiring software developer.<br>I’m highly interested in Web Development, Data Structures & Algorithms, and Artificial Intelligence.<br><br>🔹 Skilled in: React, C++, SQL,, and Software Engineering principles<br>🔹 Currently learning and building projects in Frontend Development and Problem Solving<br>🔹 Enthusiastic about contributing to open-source projects and working on real-world applications<br><br>💡 My goal is to grow as a developer, write clean and efficient code, and create impactful solutions that make a difference.</p>
+<p align="left">About Me<br><br>Hi, I’m Menna Sabry, a passionate Computer Science student and aspiring software developer.<br>I’m highly interested in Front-End Web Development, building interactive user interfaces with React, and creating responsive web applications.<br><br>🔹 Skilled in: React, C++, SQL,, and Software Engineering principles<br>🔹 Currently learning and building projects in Frontend Development and Problem Solving<br>🔹 Enthusiastic about contributing to open-source projects and working on real-world applications<br><br>💡 My goal is to grow as a developer, write clean and efficient code, and create impactful solutions that make a difference.</p>
 <p align="left">🌟 Always excited to learn new technologies and improve my skills</p>
 
 ###
