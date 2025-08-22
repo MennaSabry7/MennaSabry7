@@ -34,3 +34,19 @@
 </div>
 
 ###
+
+<h2 align="left">📫 Connect with me</h2>
+
+###
+
+<div align="left">
+  <a href="https://www.linkedin.com/in/menna-sabry-frontend-dev" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:mennasabry939@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.instagram.com/menna__sabry8?igsh=MTcwZjZnZmNudXdrZQ%3D%3D&utm_source=qr" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+</div>
